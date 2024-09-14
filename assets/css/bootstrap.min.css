@@ -1777,22 +1777,22 @@ pre code {
 
 .table td,
 .table th {
-    padding: .75rem;
+    padding: 1rem;
     vertical-align: top;
-    border-top: 1px solid #dee2e6
+    border-top: 1px solid #000000
 }
 
 .table thead th {
     vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6
+    border-bottom: 2px solid #000000
 }
 
 .table tbody+tbody {
-    border-top: 2px solid #dee2e6
+    border-top: 2px solid #000000
 }
 
 .table .table {
-    background-color: #fff
+    background-color: #ff0000
 }
 
 .table-sm td,
@@ -1801,12 +1801,12 @@ pre code {
 }
 
 .table-bordered {
-    border: 1px solid #dee2e6
+    border: 1px solid #000000
 }
 
 .table-bordered td,
 .table-bordered th {
-    border: 1px solid #dee2e6
+    border: 1px solid #000000
 }
 
 .table-bordered thead td,
@@ -1973,7 +1973,7 @@ pre code {
 .table .thead-light th {
     color: #495057;
     background-color: #e9ecef;
-    border-color: #dee2e6
+    border-color: #000000
 }
 
 .table-dark {
