@@ -3577,7 +3577,7 @@ hr {
 }
 
 .contact-form textarea::placeholder {
-    color: #071112;
+    color: #ff0000;
     font-size: 16px;
     font-weight: 400;
     transition: .4s
@@ -3614,7 +3614,7 @@ hr {
 
 .contact-form input::-moz-placeholder,
 .contact-form input::-moz-placeholder {
-    color: #071112;
+    color: #ff0000;
     font-size: 16px;
     font-weight: 300;
     transition: .4s
