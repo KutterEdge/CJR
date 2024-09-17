@@ -2858,8 +2858,8 @@ hr {
 .slider-height {
     min-height: 1008px;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover
+    background-position: center;
+    background-size: cover;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2890,7 +2890,7 @@ hr {
     min-height: 400px;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover
+    background-size: cover;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
